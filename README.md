@@ -33,12 +33,13 @@ This project focuses on practicing JavaScript logic, DOM manipulation, event han
 
 ## Project Structure
 
-
-javascript-quiz-app/
+```text
+javascript-quiz-app
 │
 ├── index.html
 ├── style.css
 └── Project6.js
+```
 
 
 ## Purpose
